@@ -1,2 +1,2 @@
 # start-1
-this is a demo for git and github class
+This is a demo for Git and Github class.
